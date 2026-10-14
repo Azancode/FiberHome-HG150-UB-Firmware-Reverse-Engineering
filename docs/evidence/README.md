@@ -6,7 +6,7 @@ All evidence should be reviewed before publication to ensure it does not disclos
 
 ## Evidence Register
 
-| ID | Evidence | Purpose 
+| ID | Evidence | Purpose |
 |---|---|---|---|
 | E-01 | Firmware identification | Documents the firmware image properties and identified signatures 
 | E-02 | Filesystem and binary identification | Records the architecture and properties of the embedded HTTP server
